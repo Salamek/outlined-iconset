@@ -1,0 +1,2 @@
+# outlined-iconset
+Outlined iconset

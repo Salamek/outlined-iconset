@@ -1,0 +1,22 @@
+{
+  "name": "outlined-iconset",
+  "homepage": "https://github.com/Salamek/outlined-iconset",
+  "authors": [
+    "Adam Schubert <adam.schubert@sg1-game.net>"
+  ],
+  "description": "Outlined Iconset",
+  "main": "dist/css/style.css",
+  "moduleType": [],
+  "keywords": [
+    "outlined-iconset",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
